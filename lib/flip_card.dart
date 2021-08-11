@@ -179,7 +179,7 @@ class FlipCardState extends State<FlipCard>
     if (widget.flipOnTouch) {
       return GestureDetector(
         behavior: HitTestBehavior.translucent,
-        onTap: toggleCard,
+        onLongPress: toggleCard,
         child: child,
       );
     }
