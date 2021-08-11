@@ -1,8 +1,8 @@
-name: flip_card
+name: flipcard
 description: A component that provides flip card animation. It could be used for hide and show details of a product.
 version: 0.5.0
-author: fedeoo <fedeoo.zf@gmail.com>
-homepage: https://github.com/fedeoo/flip_card/
+author: ali <fedeoo.zf@gmail.com>
+homepage: https://github.com/alirizwansaeed/flipcard
 
 environment:
   sdk: '>=2.12.0 <3.0.0'
